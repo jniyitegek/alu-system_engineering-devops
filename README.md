@@ -1,0 +1,1 @@
+This dir deals with alot of things about servers and ssh keys vece versa

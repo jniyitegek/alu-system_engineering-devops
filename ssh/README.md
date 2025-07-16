@@ -1,0 +1,1 @@
+this directory contacts the files that deals with ssh and keys and connecting to the servers
